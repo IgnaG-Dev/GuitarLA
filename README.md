@@ -20,7 +20,7 @@
 1. Clona este repositorio en tu máquina local.
    
    ``` 
-     git clone https://github.com/IgnaG-Dev/GuitarLA
+     git clone https://github.com/IgnaG-Dev/GuitarLA-React
    ```
 
 
